@@ -1,3 +1,2 @@
 # Tutoriel-Node.js
-Tutoriel Openclassrooms pour apprendre Node.js, Express et MongoDB
-Frontend fourni par Openclassrooms
+Tutoriel Openclassrooms pour apprendre Node.js, Express et MongoDB, avec le frontend fourni par Openclassrooms
